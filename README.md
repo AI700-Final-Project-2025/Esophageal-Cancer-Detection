@@ -319,10 +319,10 @@ One of our key contributions is **model interpretability**:
 
 | Team Member | Role | Key Contributions |
 |-------------|------|-------------------|
-| **Rupali Ravindra Shetye** | Model Architecture & Literature Review | - Designed the multi-task EfficientNet-B3 architecture with channel attention<br>- Conducted comprehensive literature review on GI endoscopy CAD systems<br>- Drafted methodology and background sections of the report |
+| **Akila Lourdes Miriyala Francis** | Model Architecture & Literature Review | - Designed the multi-task EfficientNet-B3 architecture with channel attention<br>- Conducted comprehensive literature review on GI endoscopy CAD systems<br>- Drafted methodology and background sections of the report |
 | **Akila Lourdes Miriyala Francis** | Technical Implementation & Core Code | - Implemented the complete PyTorch pipeline (~1,500 lines)<br>- Built attention module, loss functions, and training loop<br>- Integrated data augmentation and learning rate scheduling |
 | **Akilan Manivannan** | Data Acquisition & Experimental Management | - Curated the HyperKvasir subset and created stratified splits<br>- Managed experimental runs, hyperparameters, and checkpoints<br>- Conducted real-time inference benchmarking |
-| **Amisha Patel** | Data Preprocessing, Evaluation & Visualization | - Developed preprocessing pipelines for all data splits<br>- Generated classification reports, confusion matrices, and metrics<br>- Created t-SNE and Grad-CAM visualizations |
+| **Akilan Manivannan** | Data Preprocessing, Evaluation & Visualization | - Developed preprocessing pipelines for all data splits<br>- Generated classification reports, confusion matrices, and metrics<br>- Created t-SNE and Grad-CAM visualizations |
 
 **Course**: AI700-001, Fall 2025  
 **Institution**: Long Island University, Department of Artificial Intelligence  
@@ -416,21 +416,6 @@ While the code is open-source under MIT:
 - **Consult legal counsel** before deploying in clinical settings
 
 ---
-
-## 📞 Contact & Support
-
-### Project Lead
-**Rupali Ravindra Shetye**  
-Department of Artificial Intelligence  
-Long Island University, Brooklyn, USA  
-Email: rupaliravindra.shetye@my.liu.edu
-
-### Course Information
-**Course**: AI700-001 - Applicable Deep Learning 
-**Semester**: Fall 2025  
-**Institution**: Long Island University  
-**Instructor**: Reda Nacif El Alaoui
-
 
 ### Acknowledgments
 
